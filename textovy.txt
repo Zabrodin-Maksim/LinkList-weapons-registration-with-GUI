@@ -1,0 +1,41 @@
+sl, KEL-TEC KSG, 1, Great Britain, 0, 4,41
+srl, М21, 2, Great Britain, 14, 3,55
+pl, АПС, 3, Great Britain, 25, 5,44
+rl, AK-47, 4, Germany, 20, 7,65
+sl, Benelli M4 Super 90, 5, Spain, 20, 8,29
+sl, Super Black Eagle II Shotgun, 6, France, 7, 2,07
+sl, fcghfcgvh , 11, gngvncsg, 463634346, 346463,00
+srl, PSG1, 7, Spain, 25, 1,21
+pl, FN Five-seveN, 8, Great Britain, 26, 1,21
+srl, СВД, 9, Italy, 3, 4,59
+srl, AS50, 10, Germany, 19, 3,17
+sl, KEL-TEC KSG, 11, Great Britain, 0, 4,00
+srl, Рњ21, 12, Great Britain, 14, 3,00
+pl, РђРџРЎ, 13, Great Britain, 25, 5,00
+rl, AK-47, 14, Germany, 20, 7,00
+sl, Benelli M4 Super 90, 15, Spain, 20, 8,00
+sl, Super Black Eagle II Shotgun, 16, France, 7, 2,00
+srl, PSG1, 17, Spain, 25, 1,00
+pl, FN Five-seveN, 18, Great Britain, 26, 1,00
+srl, РЎР’Р”, 19, Italy, 3, 4,00
+srl, ščřščřžčžščžžšč, 20, gsdrffgsdfg, 19, 3,00
+sl, KEL-TEC KSG, 21, Great Britain, 0, 4,00
+srl, Рњ21, 22, Great Britain, 14, 3,00
+pl, РђРџРЎ, 23, Great Britain, 25, 5,00
+rl, AK-47, 24, Germany, 20, 7,00
+sl, Benelli M4 Super 90, 25, Spain, 20, 8,00
+sl, Super Black Eagle II Shotgun, 26, France, 7, 2,00
+srl, PSG1, 27, Spain, 25, 1,00
+pl, FN Five-seveN, 28, Great Britain, 26, 1,00
+srl, РЎР’Р”, 29, Italy, 3, 4,00
+srl, AS50, 30, Germany, 19, 3,00
+sl, KEL-TEC KSG, 1, Great Britain, 0, 4,00
+srl, Рњ21, 2, Great Britain, 14, 3,00
+pl, РђРџРЎ, 3, Great Britain, 25, 5,00
+rl, AK-47, 4, Germany, 20, 7,00
+sl, Benelli M4 Super 90, 5, Spain, 20, 8,00
+sl, Super Black Eagle II Shotgun, 6, France, 7, 2,00
+srl, PSG1, 7, Spain, 25, 1,00
+pl, FN Five-seveN, 8, Great Britain, 26, 1,00
+srl, РЎР’Р”, 9, Italy, 3, 4,00
+srl, AS50, 10, Germany, 19, 3,00
